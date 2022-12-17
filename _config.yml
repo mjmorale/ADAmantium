@@ -34,6 +34,7 @@ navigation:
     url: /
 
 # Build settings
+remote_theme: mmistakes/minimal-mistakes
 theme: minima
 plugins:
   - jekyll-feed
